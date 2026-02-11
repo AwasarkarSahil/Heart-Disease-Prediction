@@ -17,6 +17,7 @@ importance - Submission generation
     ├── train.csv
     ├── test.csv
     ├── submission.csv
+    ├── LICENSE
     └── README.md
 
 ------------------------------------------------------------------------
@@ -134,6 +135,24 @@ generalization and stability.
 
 This project is designed for: - ML practice - Competitions - Portfolio
 projects - Real pipeline demonstration - End-to-end ML system design
+
+------------------------------------------------------------------------
+
+## 📄 License
+
+This project is licensed under the **Apache License 2.0**.
+
+You are free to: - Use the code commercially\
+- Modify the code\
+- Distribute the code\
+- Use it in private projects
+
+Under the conditions: - License and copyright notice must be included\
+- Changes must be documented\
+- No trademark use\
+- No liability provided
+
+See the `LICENSE` file for full details.
 
 ------------------------------------------------------------------------
 
